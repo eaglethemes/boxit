@@ -1,0 +1,26 @@
+
+
+/* ##### phones ################ */
+@media only screen and (max-width: 767px) {
+.head_box1 h4 {
+    max-width: 100% !important;
+  }
+.categories_item {
+   width: 50% !important;
+  }
+
+.p-5 {
+    padding: 1rem!important;
+}
+.transporter_item h1 {
+  font-size: 35px !important;
+  padding-top: 40px;
+}
+.register_box {
+  width: 100px !important;
+}
+.feedback_text {
+  font-size: 14px;
+}
+}
+
